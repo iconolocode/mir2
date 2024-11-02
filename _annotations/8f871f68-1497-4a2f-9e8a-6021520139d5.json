@@ -1,0 +1,44 @@
+---
+canvas: "https://iconolocode.github.io/mir2/canvas/img/derivatives/iiif/titelpagina/IMG20241102152451titel.json"
+order: 3
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p>kleinkapitalen met bgin bovenkast kapitaal</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://iconolocode.github.io/mir2/canvas/img/derivatives/iiif/titelpagina/IMG20241102152451titel.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1325,1917,129,363"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1324.73192,2279.85677h64.52077v0h64.52077v-181.36608v-181.36608h-64.52077h-64.52077v181.36608z\"  id=\"rectangle_12159318-df4b-47ab-abee-8a1df35275be\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://iconolocode.github.io/mir2/img/derivatives/iiif/titelpagina/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2024-11-02T14:58:23.309Z",
+    "@id": "8f871f68-1497-4a2f-9e8a-6021520139d5.json",
+    "oa:annotatedBy": [
+        "iconolocode"
+    ]
+}
