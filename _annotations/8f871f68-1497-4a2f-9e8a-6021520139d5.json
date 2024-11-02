@@ -13,6 +13,7 @@ order: 3
     "oa:annotatedBy": [
         "iconolocode"
     ],
+    "oa:serializedAt": "2024-11-02T14:59:30.895Z",
     "on": [
         {
             "@type": "oa:SpecificResource",
@@ -25,7 +26,7 @@ order: 3
                 },
                 "item": {
                     "@type": "oa:SvgSelector",
-                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1324.73192,2279.85677h64.52077v0h64.52077v-181.36608v-181.36608h-64.52077h-64.52077v181.36608z\"  id=\"rectangle_12159318-df4b-47ab-abee-8a1df35275be\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"24.58868\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1324.73192,2279.85677h64.52077v0h64.52077v-181.36608v-181.36608h-64.52077h-64.52077v181.36608z\"  id=\"rectangle_12159318-df4b-47ab-abee-8a1df35275be\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"5.45455\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
                 }
             },
             "within": {
@@ -40,6 +41,5 @@ order: 3
             "chars": "<p>kleinkapitalen met begin bovenkast kapitaal</p>",
             "format": "text/html"
         }
-    ],
-    "oa:serializedAt": "2024-11-02T14:58:32.632Z"
+    ]
 }
