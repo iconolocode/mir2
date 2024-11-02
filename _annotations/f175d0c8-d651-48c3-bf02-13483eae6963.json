@@ -4,16 +4,14 @@ order: 2
 ---
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "f175d0c8-d651-48c3-bf02-13483eae6963.json",
     "@type": "oa:Annotation",
     "motivation": [
         "oa:commenting"
     ],
-    "resource": [
-        {
-            "@type": "dctypes:Text",
-            "format": "text/html",
-            "chars": "<p>cursief romein bovenkast</p>"
-        }
+    "oa:annotatedAt": "2024-11-02T14:57:07.305Z",
+    "oa:annotatedBy": [
+        "iconolocode"
     ],
     "on": [
         {
@@ -27,7 +25,7 @@ order: 2
                 },
                 "item": {
                     "@type": "oa:SvgSelector",
-                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1181.29792,2181.50203h52.22643v0h52.22643v-587.07938v-587.07938h-52.22643h-52.22643v587.07938z\"  id=\"rectangle_6ab377e4-3a6d-4e68-b019-9820450032cb\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1181.29792,2181.50203h52.22643v0h52.22643v-587.07938v-587.07938h-52.22643h-52.22643v587.07938z\"  id=\"rectangle_6ab377e4-3a6d-4e68-b019-9820450032cb\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"12.29434\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
                 }
             },
             "within": {
@@ -36,9 +34,12 @@ order: 2
             }
         }
     ],
-    "oa:annotatedAt": "2024-11-02T14:57:07.305Z",
-    "@id": "f175d0c8-d651-48c3-bf02-13483eae6963.json",
-    "oa:annotatedBy": [
-        "iconolocode"
-    ]
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "chars": "<p>cursieve kapitalen</p>",
+            "format": "text/html"
+        }
+    ],
+    "oa:serializedAt": "2024-11-02T14:59:10.840Z"
 }
