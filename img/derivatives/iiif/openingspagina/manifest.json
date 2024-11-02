@@ -1,0 +1,48 @@
+---
+added: 2024-11-02 14&#58;52&#58;08.634877
+thumbnail: https://iconolocode.github.io/mir2/img/derivatives/iiif/openingspagina/IMG20241102152434opening/full/128,/0/default.jpg
+title: openingspagina
+user: iconolocode
+---
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://iconolocode.github.io/mir2/img/derivatives/iiif/openingspagina/manifest.json",
+  "@type": "sc:Manifest",
+  "label": "openingspagina",
+  "viewingDirection": "left-to-right",
+  "sequences": [
+    {
+      "@type": "sc:Sequence",
+      "canvases": [
+        {
+          "@id": "https://iconolocode.github.io/mir2/canvas/img/derivatives/iiif/openingspagina/IMG20241102152434opening.json",
+          "@type": "sc:Canvas",
+          "label": "IMG_20241102_152434_opening",
+          "thumbnail": "https://iconolocode.github.io/mir2/img/derivatives/iiif/openingspagina/IMG20241102152434opening/full/128,/0/default.jpg",
+          "height": 3072,
+          "width": 4096,
+          "images": [
+            {
+              "@id": "https://iconolocode.github.io/mir2/img/derivatives/iiif/openingspagina/IMG20241102152434opening/annotation/1.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://iconolocode.github.io/mir2/img/derivatives/iiif/openingspagina/IMG20241102152434opening/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3072,
+                "width": 4096,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iconolocode.github.io/mir2/img/derivatives/iiif/openingspagina/IMG20241102152434opening",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://iconolocode.github.io/mir2/canvas/img/derivatives/iiif/openingspagina/IMG20241102152434opening.json"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
