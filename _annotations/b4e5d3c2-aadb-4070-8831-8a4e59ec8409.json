@@ -1,0 +1,44 @@
+---
+canvas: "https://iconolocode.github.io/mir2/canvas/img/derivatives/iiif/titelpagina/IMG20241102152451titel.json"
+order: 5
+---
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "oa:Annotation",
+    "motivation": [
+        "oa:commenting"
+    ],
+    "resource": [
+        {
+            "@type": "dctypes:Text",
+            "format": "text/html",
+            "chars": "<p>onderkast en klein kapitalen in zelfde regel</p>"
+        }
+    ],
+    "on": [
+        {
+            "@type": "oa:SpecificResource",
+            "full": "https://iconolocode.github.io/mir2/canvas/img/derivatives/iiif/titelpagina/IMG20241102152451titel.json",
+            "selector": {
+                "@type": "oa:Choice",
+                "default": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=2761,848,104,1429"
+                },
+                "item": {
+                    "@type": "oa:SvgSelector",
+                    "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2761.33319,2276.69566h51.81602v0h51.81602v-714.33319v-714.33319h-51.81602h-51.81602v714.33319z\"  id=\"rectangle_845b1921-c2ec-438a-9882-e8ba152a1bf6\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#008000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "within": {
+                "@id": "https://iconolocode.github.io/mir2/img/derivatives/iiif/titelpagina/manifest.json",
+                "@type": "sc:Manifest"
+            }
+        }
+    ],
+    "oa:annotatedAt": "2024-11-02T15:01:58.699Z",
+    "@id": "b4e5d3c2-aadb-4070-8831-8a4e59ec8409.json",
+    "oa:annotatedBy": [
+        "iconolocode"
+    ]
+}
