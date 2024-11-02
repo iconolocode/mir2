@@ -1,0 +1,14 @@
+---
+---
+{
+    "label": "bookgeschiedenis opdracht",
+    "type": "storyboardlist",
+    "items": [
+        {
+            "board": "<iiif-storyboard annotationurl='https://iconolocode.github.io/mir2/annotations/mir2-img20241102152451titel-list.json'></iiif-storyboard>",
+            "title": "titelpagina",
+            "description": "",
+            "thumbnail": ""
+        }
+    ]
+}
