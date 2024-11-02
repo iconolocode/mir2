@@ -1,0 +1,48 @@
+---
+added: 2024-11-02 14&#58;51&#58;36.079235
+thumbnail: https://iconolocode.github.io/mir2/img/derivatives/iiif/titelpagina/IMG20241102152451titel/full/128,/0/default.jpg
+title: titelpagina
+user: iconolocode
+---
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://iconolocode.github.io/mir2/img/derivatives/iiif/titelpagina/manifest.json",
+  "@type": "sc:Manifest",
+  "label": "titelpagina",
+  "viewingDirection": "left-to-right",
+  "sequences": [
+    {
+      "@type": "sc:Sequence",
+      "canvases": [
+        {
+          "@id": "https://iconolocode.github.io/mir2/canvas/img/derivatives/iiif/titelpagina/IMG20241102152451titel.json",
+          "@type": "sc:Canvas",
+          "label": "IMG_20241102_152451_titel",
+          "thumbnail": "https://iconolocode.github.io/mir2/img/derivatives/iiif/titelpagina/IMG20241102152451titel/full/128,/0/default.jpg",
+          "height": 3072,
+          "width": 4096,
+          "images": [
+            {
+              "@id": "https://iconolocode.github.io/mir2/img/derivatives/iiif/titelpagina/IMG20241102152451titel/annotation/1.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://iconolocode.github.io/mir2/img/derivatives/iiif/titelpagina/IMG20241102152451titel/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3072,
+                "width": 4096,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iconolocode.github.io/mir2/img/derivatives/iiif/titelpagina/IMG20241102152451titel",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://iconolocode.github.io/mir2/canvas/img/derivatives/iiif/titelpagina/IMG20241102152451titel.json"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
